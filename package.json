@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Otto-J/vuepress-blog.git",
+  "author": "姬辛宝 <jixinbao@digitforce.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs": "vuepress-vite dev docs",
+    "docs:build": "vuepress-vite build docs"
+  },
+  "devDependencies": {
+    "vuepress-vite": "^2.0.0-beta.18"
+  }
+}
